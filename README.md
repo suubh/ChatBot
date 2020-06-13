@@ -7,3 +7,4 @@ If you are having errors.Try checking your python version in terminal.It must be
 You can also use python3 as mention below
 >pip3 install chatterbot
 >pip3 install chaterbot-corpus
+.
