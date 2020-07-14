@@ -7,7 +7,7 @@ Before running install chatterbot.
   <li><strong>pip install chatterbot-corpus</strong></li>
 </ul>
 <hr>
-If you are having errors.Try checking your python version in terminal.It must be python3
+If you are having errors.Try checking your python version in terminal.It must be python3.<br>
 You can also use python3 as mention below
 <ul>
   <li><strong>pip3 install chatterbot</strong></li>
