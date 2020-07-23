@@ -1,6 +1,7 @@
 # ChatBot
 <hr>
 <h1>Chatbot from scratch</h1>
+<p><a href="https://suubh.github.io/ChatBot/app.py">View</a></p>
 Before running install chatterbot.
 <ul>
   <li><strong>pip install chatterbot</strong></li>
