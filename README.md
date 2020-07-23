@@ -13,4 +13,13 @@ You can also use python3 as mention below
   <li><strong>pip3 install chatterbot</strong></li>
   <li><strong>pip3 install chaterbot-corpus</strong></li>
 </ul>
+<hr>
+<h2>To run</h2>
+<ul>
+  <li>Clone the repository</li>
+  <li>Change directory to ChatBot</li>
+  <li>Run the the app using <strong>python app.py </strong><li>
+  <li>And its done !</li>
+</ul>
+
 
