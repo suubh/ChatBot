@@ -21,5 +21,5 @@ You can also use python3 as mention below
   <li>Run the the app using <strong>python app.py </strong></li>
   <li>And its done !</li>
 </ul>
-
+<p><strong>Templates where used from a blog by <a href="https://studygyaan.com/python/create-web-based-chatbot-in-python-django-flask">Huzaif Sayyed</a> </strong></p>
 
