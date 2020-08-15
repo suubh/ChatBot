@@ -1,4 +1,4 @@
-<p align="center">
+
 <img src="https://github.com/suubh/ChatBot/blob/master/static/styles/indexchat.png" /><br>
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
