@@ -1,11 +1,11 @@
 
-<img align = "center"  src="https://github.com/suubh/ChatBot/blob/master/static/styles/indexchat.png" /><br>
+<img align = "center" width="500" height="200" src="https://github.com/suubh/ChatBot/blob/master/static/styles/indexchat.png" /><br>
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-# ChatBot
+
 <hr>
 <h1>Chatbot from scratch</h1>
 Before running install chatterbot.
@@ -29,4 +29,6 @@ You can also use python3 as mention below
   <li>And its done !</li>
 </ul>
 <p><strong>Templates where used from a blog by <a href="https://studygyaan.com/python/create-web-based-chatbot-in-python-django-flask">Huzaif Sayyed</a> </strong></p>
+## License
+This project follows GNU [License](LICENSE)
 
